@@ -7,5 +7,6 @@ export const defaultTheme = {
     primary:'blue',
     secondary: 'yellow',
     danger: 'red',
-    white: 'white'
+    white: 'white',
+    success: 'green'
 }
